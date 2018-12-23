@@ -4,6 +4,7 @@ class A
  System.out.println("bye");
   System.out.println(" thanks");  
  System.out.println(" ");
+ System.out.println("1212121 ");
 /*done with editing/*                               }}
 
 
