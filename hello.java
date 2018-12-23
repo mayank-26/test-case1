@@ -5,6 +5,7 @@ class A
   System.out.println(" thanks");  
  System.out.println(" ");
  System.out.println("1212121 ");
+ System.out,println("$$");
  /*https://github.com/mayank-26/flash.git/*
 /*done with editing/*                               }}
 
